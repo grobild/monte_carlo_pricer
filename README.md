@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![NumPy](https://img.shields.io/badge/NumPy-Vectorized-green) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-## ⚡ Overview
+## Overview
 A high-performance **Monte Carlo simulation engine** for pricing European Call options under **Geometric Brownian Motion (GBM)**. This project demonstrates stochastic modeling, vectorized numerical implementation in `NumPy`, and validation against the closed-form **Black-Scholes** solution.
 
 ### Key Features
@@ -63,7 +63,7 @@ The implementation confirms the **Law of Large Numbers**, where the Monte Carlo 
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/yourusername/monte-carlo-pricer.git](https://github.com/yourusername/monte-carlo-pricer.git)
+git clone [https://github.com/grobild/montecarlo_option_pricer.git](https://github.com/grobild/montecarlo_option_pricer.git)
 
 # 2. Install dependencies
 pip install numpy scipy matplotlib
