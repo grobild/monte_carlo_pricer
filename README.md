@@ -47,9 +47,6 @@ $$
 ## 📊 Validation
 The implementation confirms the **Law of Large Numbers**, where the Monte Carlo estimator converges to the analytical Black-Scholes price at a rate of $\mathcal{O}(1/\sqrt{N})$.
 
-![Convergence Plot]<img width="2140" height="1160" alt="image" src="https://github.com/user-attachments/assets/13d8f5f2-9af7-40c0-9e5c-62a9bdbace44" />
-
-
 ---
 
 ## 🚀 Roadmap
