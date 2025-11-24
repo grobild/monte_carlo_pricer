@@ -49,13 +49,6 @@ The implementation confirms the **Law of Large Numbers**, where the Monte Carlo 
 
 ---
 
-## 🚀 Roadmap
-1. **C++ Implementation:** Rewrite the core engine in C++ for high-performance benchmarking ($N > 10^7$).
-2. **Exotic Derivatives:** Extend pricing to **Asian Options** (path-dependent arithmetic mean).
-3. **Greeks Calculation:** Implement Delta and Gamma sensitivity using pathwise differentiation.
-
----
-
 ## ⚙️ Usage
 
 ```bash
